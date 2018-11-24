@@ -4,7 +4,7 @@ def read():
         list = []
         for line in f.readlines():
             list.append(tuple(line.strip().split(',')))
-        # 哈哈哈
+
         return list
 
 
