@@ -18,6 +18,8 @@ class TestLogin():
 
         self.login.page_click_login_btn()
         print(result)
+    def test_haha(self):
+        print('hahahah')
 
 # if __name__ == '__main__':
 #     pytest.main()
